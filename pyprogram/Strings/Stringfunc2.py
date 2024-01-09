@@ -2,7 +2,7 @@
    # find() , index() , isalpha() ,  isdigit() , isalnum()
 
 #find
-# in the find if we put non given value it will give you answer in -1
+# in the find if we put non given character it will give you answer in -1
 z = "Make You Strong"
 print(z.find('z'))  # OT  -> 3
 print(z.find('o',2))  # the mean of 2 is start from 2 index
