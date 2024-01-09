@@ -13,7 +13,7 @@ print(z.find('o',2))  # the mean of 2 is start from 2 index
 
 #isalpha --> isalpha means all alphabates
 a = "Anonymous123"
-print(a.isalpha()) # output : false because a is not including only alpha charcter it is also number
+print(a.isalpha()) # output : it includes only alphabates
 
 # isdigit() it include only number
 n = "123"
