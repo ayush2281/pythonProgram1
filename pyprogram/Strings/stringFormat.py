@@ -7,7 +7,7 @@ print(w)
 w = "Welcome {1} to {0} MyRrpo".format("Hello",20)
 print(w)
 
-# 10 is indiacating the 9 charcter space
+# 10 is indiacating the 8 charcter space
 w = "Welcome {a:10} to {b} MyRrpo".format(a=30,b=40)
 print(w)
 
