@@ -4,8 +4,8 @@ while True:
        1 Push Element
        2 Pop Element
        3 Peek Element
-       5 Display Element
-       6 Exit    
+       4 Display Element
+       5 Exit    
        '''))
 
     if c==1:
