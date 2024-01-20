@@ -4,8 +4,8 @@ print('''
        * Multiply
        / Divide
 ''')
-num1 = int(input("Enter the value\n: 1"))
-num2 = int(input("Enter the value\n: 2"))
+num1 = int(input("Enter the first value\n"))
+num2 = int(input("Enter the second value\n"))
 opr = input("Enter the Opr..")
 if opr=="+":
     print(num1+num2)

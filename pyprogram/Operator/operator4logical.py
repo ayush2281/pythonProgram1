@@ -5,7 +5,7 @@ y = 10
 
 print(x==5 and x<y and x == y) # x==y is wrong condition
 
-#or ke andr ager ek bhi condition true hogi to wo true result dega
+#or ke andr agr ek bhi condition true hogi to wo true result dega
 print(x==5 or x<y or x == y)
 
 print(x!=5)
