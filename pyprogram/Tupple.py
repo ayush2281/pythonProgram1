@@ -22,7 +22,7 @@ for a in t2:
     # Now Come to tupple functions
 #  min(), max() , count() index() , sum()
 
-#min
+min
 t = (30,5,40)
 m = min(t)
 print(m)
