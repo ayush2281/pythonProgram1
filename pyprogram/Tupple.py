@@ -23,7 +23,7 @@ for a in t2:
 #  min(), max() , count() index() , sum()
 
 min
-t = (30,5,40)
+t = (30,30,5,40)
 m = min(t)
 print(m)
 #count
