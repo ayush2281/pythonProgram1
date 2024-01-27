@@ -8,8 +8,8 @@ l = [33,25,20,40]
 # print(l)
 
 # # apepend()
-# l.append(70) # apppen is always on last
-# print(l)
+l.append(70) # apppen is always on last
+print(l)
 #
 n = [50,60] # list ke andr list
 # l.append(n)
