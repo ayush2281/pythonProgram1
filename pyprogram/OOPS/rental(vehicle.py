@@ -13,6 +13,7 @@ class BikeShop:
         elif q>self.stock:
             print("Enter the value (less then stock")
         else:
+            self.stock=self.stock-q
             print("total prices",q*1000)
             print("total Bikes",self.stock)
 while True:
