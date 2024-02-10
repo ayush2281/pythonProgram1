@@ -1,4 +1,4 @@
-# these erroe can be broadle classsified into two classes:
+# these error can be broadle classsified into two classes:
 # syntax error
 # logical error(Exception)
 
