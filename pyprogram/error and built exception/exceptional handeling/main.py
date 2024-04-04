@@ -1,4 +1,4 @@
-#
+
 # (1). zero diviosion error
 # (2). name error
 # (3).  type error
@@ -7,7 +7,6 @@
 # (6).  key error
 # (7).  module not found error
 # (8).  import error
-
 
 # (1). zero diviosion error
 # a=10

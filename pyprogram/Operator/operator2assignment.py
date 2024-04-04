@@ -6,7 +6,7 @@ print(a)
 
 x = 5
 x+=3
-# x = x+3  Ypu also can do like this
+# x = x+3  You also can do like this
 print(x)   # Operator "+="
 
 x2 = 10
