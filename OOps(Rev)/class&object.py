@@ -35,9 +35,9 @@
 
 # class Student:
       #default constructor
-#     def __init__(self,fullname):
+#     def __init__(self,name):
 #         parameterized constructor
-#         elf.name = fullname
+#         self.name = name
 #         print("adding new student in section")
 #
 # s1 = Student('ayush')
@@ -56,16 +56,19 @@
 
 
 class University:
+    college_name = 'Mit'
     def __init__(self,No_of_students , fee, year, rollno):
 
         self.No_of_students = No_of_students
         self.fee = fee
         self.year = year
         self.rollno = rollno
+    def welcome(self):  #methods
+        print('Welcome Students',self.fee)
 
 aktu = University('120 Students','165000/yr',"4-Years", "230")
-
-
+aktu.welcome()
+print(aktu.college_name)
 print(aktu.No_of_students)
 print(aktu.fee)
 print(aktu.year)
