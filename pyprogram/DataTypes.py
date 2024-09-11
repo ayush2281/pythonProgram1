@@ -5,7 +5,7 @@
 #   Mutable Data Types: |   #   ImMutable Data Types:
 #   list                |  Number --> int , float , complex ,
 #   dictionary          |        string
-#   byte array          |        Tupple , set
+#   byte array          |        Tupple , sets
 
 #int
 a = 5
@@ -48,7 +48,7 @@ l=[1,2.2,'as']
 l[0]=60
 print(l,type(l))
 
-#directory
+#dictionary
 # dictionary is an unordered collection of key-values pairs.
 #  in python , dictionaries are defined  within breaces{} with each items being pair in the form key:values
 
@@ -59,5 +59,14 @@ d ={
 print(d['intern_name'])
 print(d,type(d))
 
+d2 = {
+    'job_profile': 'software engineer'
+    'job_duration':'45 months'
 
+print(d2['job_profile'])
+print(d2, type(d2))
+
+
+
+}
 

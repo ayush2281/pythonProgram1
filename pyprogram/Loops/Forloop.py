@@ -16,13 +16,15 @@
 #increement 2
 #1 3 5
 
-for n in range(5):  # n is variable
-    print(n)
-print()     # it will give you space
-for n in range(1,6):
-    print(n)
-print()
-for n in range(1,6,2):
-    print(n)
+# for n in range(5):  # n is variable
+#     print(n)
+# print()     # it will give you space
+# for n in range(1,6):
+#     print(n)
+# print()
+# for n in range(1,6,2):
+#     print(n)
 
 
+for me in range(0,50,3):
+    print(me)

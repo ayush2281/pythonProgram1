@@ -11,34 +11,34 @@ d = {
 n = d.get("course")
 print(n)
 
-#direct()
+# #direct()
 print(d['course'])
-
-# it will print name
+#
+# # it will print name of keys
 for c in d.keys():
     print(c)
-
-# it will print value
+#
+# # it will print value
 for b in d.values():
     print(b)
-#and it will print both
+# #and it will print both
 for n in d.items():
     print(n)
-
-# delete keys
-del d['fees']
-print(d)
-
-#pop
-
-print(d.pop('duration'))
-print(d)
-
-
-
-
-
-
-
-
-
+#
+# # delete keys
+# del d['fees']
+# print(d)
+#
+# #pop
+#
+# print(d.pop('duration'))
+# print(d)
+#
+#
+#
+#
+#
+#
+#
+#
+#
